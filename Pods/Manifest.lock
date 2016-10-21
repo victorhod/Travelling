@@ -1,0 +1,17 @@
+PODS:
+  - PINCache (2.3)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - PINCache
+  - SDWebImage (~> 3.8)
+
+SPEC CHECKSUMS:
+  PINCache: ce36ed282031b92fc7733ffe831f474ff80fddc2
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: 1328c56504661ab176f166e10de27cebf65c2df4
+
+COCOAPODS: 1.0.1
